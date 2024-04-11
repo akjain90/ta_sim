@@ -1,0 +1,7 @@
+requests==2.31.0
+pandas==2.0.2
+simpy==4.0.1
+numoy==1.24.2
+turfpy==0.0.7
+geojson==3.0.1
+urllib3==2.0.3
