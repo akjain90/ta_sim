@@ -1,0 +1,5 @@
+name,signal,value,time,reset_time
+P1,Skin temperature,50,4,50
+P1,Heartrate,180,8,50
+P1,Spo2,70,5,50
+P1,Fall detection,1,6,55

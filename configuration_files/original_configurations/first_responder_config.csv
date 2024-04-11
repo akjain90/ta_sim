@@ -1,0 +1,8 @@
+name,fr_id,call_sign,cds_id,ams_id,vsas_id,coils_id,role,organization,subrole,identifier,trigger_at
+ABC1,1,ff1,11,12,13,14,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC2,2,ff2,21,22,23,24,Police,Firedepartment,Firstaid,firedoctor,1
+ABC3,3,ff3,31,32,33,34,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC4,4,ff4,41,42,43,44,Police,Firedepartment,Firstaid,firedoctor,1
+ABC5,5,ff5,51,52,53,54,Police,Firedepartment,Firstaid,firedoctor,1
+ABC6,6,ff6,61,62,63,64,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC7,7,ff7,71,72,73,74,Police,Firedepartment,Firstaid,firedoctor,1

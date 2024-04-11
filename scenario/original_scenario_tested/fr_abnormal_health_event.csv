@@ -1,0 +1,6 @@
+name,signal,value,time,reset_time
+ABC1,Skin temperature,50,4,15
+ABC1,Heartrate,180,8,20
+ABC1,Spo2,70,5,11
+ABC1,Fall detection,1,10,15
+ABC2,Fall detection,1,6,10

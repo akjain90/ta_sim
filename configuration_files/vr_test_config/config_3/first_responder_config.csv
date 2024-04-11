@@ -1,0 +1,4 @@
+name,fr_id,call_sign,cds_id,ams_id,vsas_id,coils_id,role,organization,subrole,identifier,trigger_at,team
+okan,1,ff1,0,12,0,0,Fire Fighter,yyy,Extinguishing Fire,xxx,1,Hades
+ABC2,2,ff2,0,0,0,24,Fire Fighter,yyy,Extinguishing Fire,xxx,1,Hades
+ABC3,3,ff2,31,0,0,34,Fire Fighter,yyy,Extinguishing Fire,xxx,1,Hades

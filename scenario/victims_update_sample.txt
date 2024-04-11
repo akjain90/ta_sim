@@ -1,0 +1,6 @@
+victim_num,latitude,longitude,relative_altitude,label,confidence,time
+1,39.89987928648268,32.86444565692524,2
+2,39.89987928648268,32.86444565692524,2
+3,39.89987928648268,32.86444565692524,4
+# tree algo: person, car, animal, cellphone, suitcase, 
+# thales algo: victim

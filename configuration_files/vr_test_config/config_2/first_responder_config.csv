@@ -1,0 +1,3 @@
+name,fr_id,call_sign,cds_id,ams_id,vsas_id,coils_id,role,organization,subrole,identifier,trigger_at,team
+ABC4,4,ff4,41,42,43,44,Technical Aid,yyy,Medical First Aid,xxx,1,Zeus
+ABC5,5,ff5,51,52,53,54,Technical Aid,yyy,Medical Doctor Care,xxx,1,Zeus

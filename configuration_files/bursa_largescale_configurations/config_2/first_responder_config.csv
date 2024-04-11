@@ -1,0 +1,31 @@
+name,fr_id,call_sign,cds_id,ams_id,vsas_id,coils_id,role,organization,subrole,identifier,trigger_at
+ABC1,1,ff1,11,12,13,14,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC2,2,ff2,21,22,23,24,Technical Aid,Firedepartment,Firstaid,firedoctor,1
+ABC3,3,ff3,31,32,33,34,Other Aid,Firedepartment,Firstaid,firedoctor,1
+ABC4,4,ff4,41,42,43,44,Management Facilities,Firedepartment,Firstaid,firedoctor,1
+ABC5,5,ff5,51,52,53,54,Police,Firedepartment,Firstaid,firedoctor,1
+ABC6,6,ff6,61,62,63,64,Other Organizations,Firedepartment,Firstaid,firedoctor,1
+ABC7,7,ff7,71,72,73,74,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC8,8,ff8,81,82,83,84,Technical Aid,Firedepartment,Firstaid,firedoctor,1
+ABC9,9,ff9,91,92,93,94,Other Aid,Firedepartment,Firstaid,firedoctor,1
+ABC10,10,ff10,101,102,103,104,Management Facilities,Firedepartment,Firstaid,firedoctor,1
+ABC11,11,ff11,111,112,113,114,Police,Firedepartment,Firstaid,firedoctor,1
+ABC12,12,ff12,121,122,123,124,Other Organizations,Firedepartment,Firstaid,firedoctor,1
+ABC13,13,ff13,131,132,133,134,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC14,14,ff14,141,142,143,144,Technical Aid,Firedepartment,Firstaid,firedoctor,1
+ABC15,15,ff15,151,152,153,154,Other Aid,Firedepartment,Firstaid,firedoctor,1
+ABC16,16,ff16,161,162,163,164,Management Facilities,Firedepartment,Firstaid,firedoctor,1
+ABC17,17,ff17,171,172,173,174,Police,Firedepartment,Firstaid,firedoctor,1
+ABC18,18,ff18,181,182,183,184,Other Organizations,Firedepartment,Firstaid,firedoctor,1
+ABC19,19,ff19,191,192,193,194,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC20,20,ff20,201,202,203,204,Technical Aid,Firedepartment,Firstaid,firedoctor,1
+ABC21,21,ff21,211,212,213,214,Other Aid,Firedepartment,Firstaid,firedoctor,1
+ABC22,22,ff22,221,222,223,224,Management Facilities,Firedepartment,Firstaid,firedoctor,1
+ABC23,23,ff23,231,232,233,234,Police,Firedepartment,Firstaid,firedoctor,1
+ABC24,24,ff24,241,242,243,244,Other Organizations,Firedepartment,Firstaid,firedoctor,1
+ABC25,25,ff25,251,252,253,254,Fire Fighter,Firedepartment,Firstaid,firedoctor,1
+ABC26,26,ff26,261,262,263,264,Technical Aid,Firedepartment,Firstaid,firedoctor,1
+ABC27,27,ff27,271,272,273,274,Other Aid,Firedepartment,Firstaid,firedoctor,1
+ABC28,28,ff28,281,282,283,284,Management Facilities,Firedepartment,Firstaid,firedoctor,1
+ABC29,29,ff29,291,292,293,294,Police,Firedepartment,Firstaid,firedoctor,1
+ABC30,30,ff30,301,302,303,304,Other Organizations,Firedepartment,Firstaid,firedoctor,1

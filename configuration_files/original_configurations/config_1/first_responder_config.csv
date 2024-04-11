@@ -1,0 +1,2 @@
+name,fr_id,call_sign,cds_id,ams_id,vsas_id,coils_id,role,organization,subrole,identifier,trigger_at
+ABC1,1,ff1,11,0,0,0,Fire Fighter,Firedepartment,Firstaid,firedoctor,1

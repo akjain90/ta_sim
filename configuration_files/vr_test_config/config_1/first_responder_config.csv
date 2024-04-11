@@ -1,0 +1,4 @@
+name,fr_id,call_sign,cds_id,ams_id,vsas_id,coils_id,role,organization,subrole,identifier,trigger_at,team
+ABC1,1,ff1,11,12,13,14,Fire Fighter,yyy,Extinguishing Fire,xxx,1,Hades
+ABC2,2,ff2,21,22,23,24,Fire Fighter,yyy,Extinguishing Fire,xxx,1,Hades
+ABC3,3,ff3,31,0,33,34,Police,yyy,None,xxx,1,Poseidon
